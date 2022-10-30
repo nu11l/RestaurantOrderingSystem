@@ -1,0 +1,280 @@
+=CHEF'S PICKS
+title=Cheesy Classic
+desc=Grilled patty burger, "Secret Sauce", lettuce, pickles, tomatoes; served in a buttered, toasted bun covered with melted Emmental cheese
+cost=EGP 83.00
+add
+title=BBQ Pizza
+desc=Grilled chicken, hickory BBQ sauce, green capsicum, red onions and sliced fresh mushrooms
+cost=EGP 85.00
+add
+title=Molten Cake with Ice Cream
+desc=Layers of decadent and smooth chocolate in a moist cake dough. Sweet, but not too sweet.... and with ice cream of course.
+cost=EGP 49.00
+add
+=BREAKFAST
+title=Croissant
+options=Plain - Cheese - Thyme (Zaatar)
+cost=EGP 24.00
+add
+title=Pâté
+options=Chocolate - Cheese
+cost=EGP 28.00
+add
+title=Scramble-Sausage Wrap
+desc=(served with potato wedges, side salad and crusted toast bread)
+cost=EGP 49.00
+add
+=CAMPFIRE PIZZAS
+title=BBQ Pizza
+desc=Grilled chicken, Hickory BBQ sauce, green capsicum, red onions and sliced fresh mushrooms
+cost=EGP 85.00
+add
+title=Margherita Pizza
+desc=The “plain & simple”, tomato sauce, fresh mozzarella and fresh basil - a classic combination
+cost=EGP 68.00
+add
+title=Smoked Pizza
+desc=Mix of smoked turkey, smoked beef, and pepperoni
+cost=EGP 86.00
+add
+title=Mushroom Pizza
+desc=Slices of mushrooms… and more slices of mushrooms, tomato sauce
+cost=EGP 79.00
+add
+=SANDWICHES
+mainheader=All sandwiches served with fries and coleslaw
+title=Chicken Crispy
+desc=Crunchy and tender fried chicken fillet, spicy mayo sauce, lettuce, pickles,tomatoes, smoked turkey and American cheese
+cost=EGP 69.00
+add
+title=Classic Burger
+desc=Grilled patty burger, "Secret Sauce", lettuce, pickles, tomatoes, Cheddar cheese; served in a buttered, toasted bun
+cost=EGP 78.00
+add
+title=Cheesy Classic burger
+desc=Grilled patty burger, "Secret Sauce", lettuce, pickles, tomatoes; served in a buttered, toasted bun covered with melted Emmental cheese
+cost=EGP 83.00
+add
+title=Mushroom Burger
+desc=Grilled patty burger, "Secret Sauce", sautéed mushrooms, Emmental cheese; served in a buttered, toasted bun
+cost=EGP 98.00
+add
+title=Pharaoh’s Rally
+desc=Crunchy and tender fried chicken breast, tossed in spicy buffalo sauce and covered with coleslaw in a buttered, toasted bun
+cost=EGP 79.00
+add
+title=Turkey Cheese
+desc=Smoked turkey, lettuce, tomato, pickles, mayo sauce and cheddar cheese served in soft fresh bread roll
+cost=EGP 59.00
+add
+=MAIN DISHES
+title=Chicken Parmesan Pasta
+desc=Penne with fried chicken breast, tomato sauce and Parmesan cheese
+cost=EGP 79.00
+add
+title=Chicken Mushroom Pasta
+desc=Penne white sauce, grilled chicken breast, sautéed mushroom and parmesan cheese
+cost=EGP 88.00
+add
+title=Beef Stroganoff*
+desc=Served with mushrooms, green capsicum and onions
+cost=EGP 129.00
+add
+title=Grilled Chicken*
+cost=EGP 119.00
+add
+title=Melted Crispy Chicken*
+cost=EGP 125.00
+add
+title=Chicken - Mushroom*
+desc=Served with brown mushroom sauce
+cost=EGP129.00
+add
+title=Shish Tawook Skewers*
+cost=EGP 129.00
+add
+title=Beef Fillet Skewers*
+cost=EGP 139.00
+add
+=HEALTHY
+title=Caesar Salad
+desc=Crispy lettuce, Caesar sauce, cherry tomatoes and croutons Add: grilled shrimps or grilled chicken
+cost=EGP 59.00
+add
+=SIDES
+title=Chicken 
+cost=EGP 20.00
+add
+title=Shrimp 
+cost=EGP 25.00
+add
+title=Fries 
+cost=EGP 15.00
+add
+title=Sausages 
+cost=EGP 20.00
+add
+title=Side Salad 
+cost=EGP 12.00
+add
+title=Mushrooms 
+cost=EGP 15.00
+add
+=DESSERTS
+title=Sunset Special
+desc=Dark chocolate brownies with vanilla ice cream
+cost=EGP 39.00
+add
+title=Muddy Cactus
+desc=Chocolate cake with ice cream
+cost=EGP 35.00
+add
+title=Desert flower
+desc=Lotus cheese cake
+cost=EGP 49.00
+add
+title=New York Cheese Cake
+desc=The Classic (plain)
+cost=EGP 34.00
+add
+title=New York Cheese Cake
+desc=The Classic (flavored)
+cost=EGP 39.00
+add
+title=Molten cake with ice cream
+cost=EGP 49.00
+add
+=BEVERAGES
+mainheader=FIRE EXTINGUISHERS
+subheader=H2O Fire Extinguishers
+title=Water (small) 
+cost=EGP 7
+add
+title=Water (large) 
+cost=EGP 12
+add
+title=Sparkling Water 
+cost=EGP 12
+add
+subheader=CO2 Fire Extinguishers
+title=Soda/Pepsi/7-Up 
+cost=EGP 12
+add
+title=Birell 
+cost=EGP 14
+add
+title=Fayrouz 
+cost=EGP 14
+add
+title=Tonic 
+cost=EGP 12
+add
+title=Club Soda 
+cost=EGP 12
+add
+title=Red Bull 
+cost=EGP 29
+add
+subheader=HYDRAULIC FLUIDS
+subheader=HOT
+title=Espresso (single) 
+cost=EGP 22
+add
+title=Espresso (double) 
+cost=EGP 34
+add
+title=Hot chocolate 
+cost=EGP 32
+add
+title=Flat White 
+cost=EGP 35
+add
+title=Americano 
+cost=EGP 28
+add
+title=Latte 
+cost=EGP 40
+add
+title=Caramel Macchiato 
+cost=EGP 39
+add
+title=Moccha 
+cost=EGP 45
+add
+title=Tea 
+cost=EGP 19
+add
+title=Hibiscus 
+cost=EGP 22
+add
+title=Cappuccino 
+cost=EGP 35
+add
+title=Apple cider 
+cost=EGP 27
+add
+title=Turkish Coffee 
+cost=EGP 19
+add
+subheader=COLD
+title=Frappe 
+cost=EGP 39
+add
+subheader=FROZEN
+title=Iced Espresso 
+cost=EGP 28
+add
+title=Iced Cappuccino 
+cost=EGP 30
+add
+title=Iced Latte (plain) 
+cost=EGP 29
+add
+title=Iced Moccha
+cost=EGP 29
+add
+mainheader=ANTI-FREEZE
+subheader=COCKTAILS
+title=Lemon Basil Mojito 
+cost=EGP 37
+add
+title=Pineapple Basil Mojito 
+cost=EGP 37
+add
+title=Pink Mojito 
+cost=EGP 33
+add
+title=Ginger Fizz 
+cost=EGP38
+add
+title=Lemon Iced Tea 
+cost=EGP 32
+add
+title=Peach Iced Tea 
+cost=EGP 32
+add
+title=Apple-Cinnamon Iced Tea 
+cost=EGP 32
+add
+title=Passion Fruit Iced Tea 
+cost=EGP 32
+add
+title=Mixed Berry Refresher 
+cost=EGP 30
+add
+subheader=MILKSHAKES
+title=Vanilla 
+cost=EGP 34
+add
+title=Salted caramel 
+cost=EGP 37
+add
+title=Dark chocolate (topped with caramel cream) 
+cost=EGP 37
+add
+title=Mixed berry 
+cost=EGP 38
+add
+title=Brownies 
+cost=EGP 39
+add
